@@ -1,2 +1,4 @@
 adding first line to file1.txt
 Appending this line from the master branch
+changing content from new branch
+
